@@ -1,0 +1,30 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new weblog",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet repellat ipsum optio dolor et repudiandae earum ducimus porro ea incidunt sint harum commodi quos, id voluptatum nostrum est corrupti tempore unde saepe enim officiis. Assumenda nisi non deleniti, laboriosam voluptate quae molestiae voluptas rem modi recusandae quod dolore delectus aliquid libero eligendi hic ducimus nobis, consectetur sint perferendis. Sunt tempora dolore dolorem voluptates placeat iusto fugiat consequuntur minima quidem nesciunt expedita aspernatur nobis blanditiis repellat eveniet commodi eius eligendi suscipit quas ad, nemo consectetur perferendis? Ea ullam ipsum vero explicabo delectus ex quo ducimus optio fugiat enim. Facilis, officia dolores!",
+      "likes": 30
+    },
+    {
+      "id": 2,
+      "title": "how to be net ninja",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet repellat ipsum optio dolor et repudiandae earum ducimus porro ea incidunt sint harum commodi quos, id voluptatum nostrum est corrupti tempore unde saepe enim officiis. Assumenda nisi non deleniti, laboriosam voluptate quae molestiae voluptas rem modi recusandae quod dolore delectus aliquid libero eligendi hic ducimus nobis, consectetur sint perferendis. Sunt tempora dolore dolorem voluptates placeat iusto fugiat consequuntur minima quidem nesciunt expedita aspernatur nobis blanditiis repellat eveniet commodi eius eligendi suscipit quas ad, nemo consectetur perferendis? Ea ullam ipsum vero explicabo delectus ex quo ducimus optio fugiat enim. Facilis, officia dolores!",
+      "likes": 20
+    },
+    {
+      "id": 3,
+      "title": "apsignals ",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet repellat ipsum optio dolor et repudiandae earum ducimus porro ea incidunt sint harum commodi quos, id voluptatum nostrum est corrupti tempore unde saepe enim officiis. Assumenda nisi non deleniti, laboriosam voluptate quae molestiae voluptas rem modi recusandae quod dolore delectus aliquid libero eligendi hic ducimus nobis, consectetur sint perferendis. Sunt tempora dolore dolorem voluptates placeat iusto fugiat consequuntur minima quidem nesciunt expedita aspernatur nobis blanditiis repellat eveniet commodi eius eligendi suscipit quas ad, nemo consectetur perferendis? Ea ullam ipsum vero explicabo delectus ex quo ducimus optio fugiat enim. Facilis, officia dolores!",
+      "likes": 100
+    }
+  ],
+  "polls": [
+    {
+      "id": 1,
+      "question": "how old are you?",
+      "answerA": "im 13",
+      "answerB": "im 23"
+    }
+  ]
+}
